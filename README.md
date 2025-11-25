@@ -13,8 +13,7 @@ I enjoy turning ideas into real-world applications and love exploring technologi
 🌐 **Portfolio:** https://incomparable-donut-2b574c.netlify.app/  
 
 ---
-
-### 🌼 Aesthetic Bio  
+ 
 I love creating meaningful digital experiences, solving logical problems, and learning things that push me out of my comfort zone.  
 My strengths include **attention to detail, strong time management, leadership, teamwork, and creativity** — qualities that help me grow as a developer every day.  
 I believe in writing clean code, staying curious, and continuously improving myself both personally and professionally. ✨  
