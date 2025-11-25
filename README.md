@@ -6,10 +6,10 @@ I'm an engineering student passionate about building clean, efficient, and user-
 I enjoy turning ideas into real-world applications and love exploring technologies like Java, React, SQL, AWS, and Firebase.  
 
 💡 With a strong understanding of **OOPs, DBMS, OS, CN, and Data Structures**, I focus on writing maintainable code, learning continuously, and improving my craft.  
-🛠️ Skilled in **Java • React • Tailwind CSS • SQL • AWS • Docker • Kubernetes • Firebase • Git & GitHub**  
+🛠️ Skilled in **Java • JavaScript • Python • MongoDB • React • Node • Express • Tailwind CSS • SQL • AWS • Docker • Kubernetes • Firebase • Git & GitHub**  
 🌱 Currently sharpening my skills for **software development & testing roles**, focusing on SDLC, automation basics, and scalable system design.
 
-📫 **Reach me:** shivanigireesh@gmail.com  
+📫 **Reach me:** shivaniappi3074@gmail.com  
 🌐 **Portfolio:** https://incomparable-donut-2b574c.netlify.app/  
 
 ---
